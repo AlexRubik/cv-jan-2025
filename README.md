@@ -39,6 +39,7 @@ American University
 - Rust (Intermediate)
 - C# (Intermediate)
 - SQL (Intermediate)
+- Python (Intermediate)
 
 **Frameworks & Technologies**
 - Solana Blockchain & SPL Token Standard
